@@ -25,7 +25,7 @@ const SpecialOffer = () => {
          <Button 
           label={"Learn More"}
           bgColor={"bg-white"}
-          textColor={"text-gray-500"}
+          textColor={"text-green-500"}
           borderColor={"border-slate-500"} />
         </div>
       </div>
